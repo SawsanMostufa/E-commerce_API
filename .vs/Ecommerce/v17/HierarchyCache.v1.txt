@@ -1,0 +1,247 @@
+﻿++Solution 'Ecommerce' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Ecommerce.sln
+++Ecommerce
+i:{00000000-0000-0000-0000-000000000000}:Ecommerce
+++Connected Services 
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>387
+++Dependencies
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>386
+++Properties
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\properties\
+++Controllers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\controllers\
+++AuthController.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\controllers\authcontroller.cs
+++CategoryController.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\controllers\categorycontroller.cs
+++OrderController.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\controllers\ordercontroller.cs
+++ProductController.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\controllers\productcontroller.cs
+++DTO
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\
+++Auth
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\auth\
+++UserDto.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\auth\userdto.cs
+++UserForLoginDto.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\auth\userforlogindto.cs
+++UserForRegisterDto.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\auth\userforregisterdto.cs
+++ApiException.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\apiexception.cs
+++CategorywithProductsNameDTO.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\categorywithproductsnamedto.cs
+++LoginDTO.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\logindto.cs
+++RegisterDTO.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\registerdto.cs
+++Helper
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\helper\
+++AutoMapperProfiles.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\helper\automapperprofiles.cs
+++ExceptionMiddleware.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\helper\exceptionmiddleware.cs
+++JWT.cs
+++Migrations
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\migrations\
+++Models
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\
+++ApplicationUser.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\applicationuser.cs
+++AuthModel.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\authmodel.cs
+++Category.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\category.cs
+++Context.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\context.cs
+++Order.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\order.cs
+++Product.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\product.cs
+++ProductColor.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\productcolor.cs
+++ProductSize.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\productsize.cs
+++RegisterModel.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\registermodel.cs
+++Role.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\role.cs
+++TokenRequestModel.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\tokenrequestmodel.cs
+++UserRole.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\models\userrole.cs
+++Repository
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\
+++AuthService.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\authservice.cs
+++CategoryRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\categoryrepository.cs
+++ColorRepo.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\colorrepo.cs
+++IAuthService.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\iauthservice.cs
+++ICategoryRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\icategoryrepository.cs
+++IColoRepo.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\icolorepo.cs
+++IOrderRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\iorderrepository.cs
+++IProductRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\iproductrepository.cs
+++ISizeRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\isizerepository.cs
+++ITokenService.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\itokenservice.cs
+++OrderRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\orderrepository.cs
+++ProductRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\productrepository.cs
+++SizeRepository.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\sizerepository.cs
+++TokenService.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\repository\tokenservice.cs
+++Resources
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\
+++appsettings.json
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\appsettings.json
+++Program.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\program.cs
+++Startup.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\startup.cs
+++No service dependencies discovered
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>388
+++Analyzers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:analyzers
+++Frameworks
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:frameworks
+++Packages
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:packages
+++launchSettings.json
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\properties\launchsettings.json
+++20220703110506_init.cs
+++20220703110752_SeedRoles.cs
+++ContextModelSnapshot.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\migrations\contextmodelsnapshot.cs
+++Images
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\
+++appsettings.Development.json
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:c:\users\all in one\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (4.0.1)
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>414
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.14)
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>402
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.14)
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>401
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (5.0.14)
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>415
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.14)
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>399
+++Microsoft.EntityFrameworkCore.Tools (5.0.14)
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>403
+++Swashbuckle.AspNetCore (5.6.3)
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:>400
+++20220703110506_init.Designer.cs
+++20220703110752_SeedRoles.Designer.cs
+++1.jpg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\1.jpg
+++1.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\1.png
+++2.jpg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\2.jpg
+++2.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\2.png
+++3.jpg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\3.jpg
+++3.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\3.png
+++4.jpg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\4.jpg
+++4.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\4.png
+++6.jpg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\6.jpg
+++angular2.PNG
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\angular2.png
+++bag.jpg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\bag.jpg
+++bag1.jpeg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\bag1.jpeg
+++bag2.jpeg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\bag2.jpeg
+++dgd 15374-3m.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\dgd 15374-3m.png
+++dgd15323-3m.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\dgd15323-3m.png
+++girls.PNG
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\girls.png
+++p.PNG
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\p.png
+++p2.PNG
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\p2.png
+++p3.PNG
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\p3.png
+++p4.PNG
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\p4.png
+++Screenshot 2022-06-22 152920.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\screenshot 2022-06-22 152920.png
+++Screenshot 2022-06-22 155100.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\screenshot 2022-06-22 155100.png
+++Screenshot 2022-06-25 140009.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\screenshot 2022-06-25 140009.png
+++Screenshot 2022-06-25 140133.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\screenshot 2022-06-25 140133.png
+++Screenshot 2022-06-25 145349.png
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\screenshot 2022-06-25 145349.png
+++shoes.webp
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\shoes.webp
+++إحسان.jpg
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\resources\images\إحسان.jpg
+++4upn502v.j1k~
+++vfpm4on4.abq~
+++moklpksn.0c0~
+++UserForListDto.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\auth\userforlistdto.cs
+++Extensions.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\helper\extensions.cs
+++PagedList.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\helper\pagedlist.cs
+++PaginationHeader.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\helper\paginationheader.cs
+++UserParams.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\helper\userparams.cs
+++343bkpg5.zpw~
+++20220706004634_EditUserTables.cs
+++20220706004634_EditUserTables.Designer.cs
+++2rgup5ri.mwv~
+++20220706005545_EditUserTables.cs
+++20220706005545_EditUserTables.Designer.cs
+++20220706010120_EditUserTables.cs
+++20220706010120_EditUserTables.Designer.cs
+++gdh03b2x.ssv~
+++20220706010633_EditUserTables.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\migrations\20220706010633_editusertables.cs
+++20220706010633_EditUserTables.Designer.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\migrations\20220706010633_editusertables.designer.cs
+++b42ituav.x3c~
+++20220706023014_Test.cs
+++20220706023014_Test.Designer.cs
+++5pt515ku.t53~
+++UserForDetailedDto.cs
+i:{4375c733-0658-48b2-bf90-49f99a022f1f}:d:\angular\ecommerce -fashion\ecommerce\dto\auth\userfordetaileddto.cs

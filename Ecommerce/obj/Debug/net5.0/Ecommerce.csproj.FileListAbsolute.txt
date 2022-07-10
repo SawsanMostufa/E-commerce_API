@@ -1,0 +1,266 @@
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.json
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\refint\Ecommerce.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\PWD & BI ITI\Asp.net Core Web Api\AP-Project\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\appsettings.json
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\refint\Ecommerce.dll
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+D:\Angular\الإمارات\Ecommerce - Copy\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\refint\Ecommerce.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\appsettings.json
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+D:\Angular\الإمارات\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\appsettings.json
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\AutoMapper.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\refint\Ecommerce.dll
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+D:\Angular\Ecommerce -Fashion\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
